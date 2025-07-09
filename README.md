@@ -1,3 +1,6 @@
+> **Warning:**
+> Be carefull to use this tool. Make sure backup all important data before use this tool. All risks resulting from use this tool are the responsibility of the user.
+
 # Windows 11 Tool
 Tool For customize Windows 11 (Tested on 24H2 | AMD)
 
@@ -5,8 +8,7 @@ Required :
 - [ISO Windows 11 24H2 (Official)](https://www.microsoft.com/en-us/software-download/windows11)
 
 
-> **Warning:**
-> Gunakan tool ini dengan hati-hati. Pastikan untuk membackup data penting sebelum melakukan modifikasi pada sistem. Segala risiko akibat penggunaan tool ini menjadi tanggung jawab pengguna.
+
 
 ## Features
 - Customize Windows 11 installation
