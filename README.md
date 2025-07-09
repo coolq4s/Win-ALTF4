@@ -20,7 +20,7 @@ Required :
 - Do not close any terminal executed
 - After installation complete wait 2 minutes for
   finishing up the `autounattend.xml` process
-- Use this script for extra [Here](https://github.com/coolq4s/Win-ALTF4/releases/tag/Windows-Script)
+- Use this script for extra [HERE](https://github.com/coolq4s/Win-ALTF4/releases/tag/Windows-Script)
 
 
 ## Features
