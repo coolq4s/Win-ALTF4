@@ -2,8 +2,8 @@
 Tool For customize Windows 11 (Tested on 24H2 | AMD)
 
 Required :
-- [ISO Windows 11 24H2 (Official)](https://www.microsoft.com/en-us/software-download/windows11)
-- [Automated installation XML](./Tool/autounattend.xml)
+- [Link](https://www.microsoft.com/en-us/software-download/windows11) ISO Windows 11 24H2 (Official)
+- [Link](./Tool/autounattend.xml) Automated installation XML
 
 > [!WARNING] 
 > Be carefull to use this tool. Make sure backup all important data before use this tool. All risks resulting from use this tool are the responsibility of the user.
